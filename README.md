@@ -1,6 +1,6 @@
 # GALAB
 유전 알고리즘 시뮬레이터  
-Language: python 
+Language: python  
 Project in December, 2021.
 
 ## 개요
