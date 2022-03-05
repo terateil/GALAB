@@ -10,7 +10,8 @@ Written in python, December, 2021.
 
 
 ## 시작하기
-~main.py
+프로그램을 사용하려면 repository를 clone 하고, `dist/main/main.exe`를 실행시키세요.  
+python 코드를 확인하려면 `main.py`를 참고하세요.
 
 ## 사용 방법 - 환경 설정
 프로그램을 실행하고, 환경을 설정합니다.  
