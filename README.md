@@ -1,6 +1,7 @@
 # GALAB
 유전 알고리즘 시뮬레이터  
-Written in python, December, 2021.
+Language: python 
+Project in December, 2021.
 
 ## 개요
 사용자가 설정한 조건에서 유전 알고리즘을 실행하고, 그 과정을 실시간으로 확인하고 상호작용할 수 있는 프로그램입니다.
