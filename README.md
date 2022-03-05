@@ -13,8 +13,10 @@ Written in python, December, 2021.
 ~main.py
 
 ## 사용 방법 - 환경 설정
-프로그램을 실행하고, 환경을 설정합니다.
-![image](https://user-images.githubusercontent.com/99002885/156790788-f9b8abae-f8d1-415b-a513-e99b155e422e.png)
+프로그램을 실행하고, 환경을 설정합니다.  
+<p>
+<img src=https://user-images.githubusercontent.com/99002885/156882987-2237ca31-5449-49bf-8b48-6121be91f618.PNG width = 400>
+</p>
 
 ### 환경 선택
 - match_number: 랜덤하게 정해진 정수값으로 염색체의 코드값이 수렴하는 것이 목표인 매우 단순한 환경입니다.
